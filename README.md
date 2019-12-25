@@ -44,15 +44,15 @@ Second Level Learning Model : Trained a XGBClassifier using xgboost
 1.  Data Preprocessing
 2.  Exploratory Visualization 
 3.  Feature Engineering  
-    3.1 Value Mapping  
-    3.2 Simplification 
-    3.3 Feature Selection  
-    3.4 Handling Categorical Data
+    1. Value Mapping  
+    2. Simplification 
+    3. Feature Selection  
+    4. Handling Categorical Data
 4.  Modeling & Evaluation
-    4.1 Trying Different Model without Validation
-	4.2 Cross-validation method 
-	4.3 Model scoring function
-	4.4 Setting Up Models
+    1. Trying Different Model without Validation
+    2. Cross-validation method 
+    3. Model scoring function
+    4. Setting Up Models
 5.  Train & Fit Model
 6.  Our Base First-Level Models
 7.  Second-Level Predictions From The First-Level Output
